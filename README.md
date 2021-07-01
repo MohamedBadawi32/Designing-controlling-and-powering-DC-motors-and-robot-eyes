@@ -8,6 +8,8 @@ The aim of this project is to control two DC motor in both directions using a po
 
 After the construction of the circuit, the Arduino was coded in a way to implement both directions using one potentiometer. Therefore, the potentiometer was split into two sections that represents clockwise and counterclockwise rotations. If the potentiometer is rotated counterclockwise, both motors will deaccelerate the clockwise rotation to the point that the motor will stop rotating and then a counterclockwise rotation will take place. Consequently, the same procedure is applicable if the potentiometer was rotated clockwise. The maximum voltage on the output for the motors is 10.5 volts, however, it depends on the value of the power supply that is connected through pin 8 of the IC. 
 
+### Module on TinkerCAD: [Controlling DC motors with a potentiometer](https://www.tinkercad.com/things/g6XAcukzmeK-copy-of-controlling-dc-motors-with-a-potentiometer/editel?sharecode=zcTKnUlGvD35ry3nbc0peD9APO39wzESEFaiKyNwe20)
+
 ## #2 Description and Instructions of the project “Battery specifications and charging circuit”.
 The objective of this project is to choose a portable power source to run two 12 volts motors for approximately 2 hours and to supply other components if necessary. Here is a list of components’ current consumption of what the battery will be supplying:
 - L293D IC Motor Driver: 600 mA.

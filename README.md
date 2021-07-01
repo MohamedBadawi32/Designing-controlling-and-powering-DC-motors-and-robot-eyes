@@ -1,5 +1,5 @@
 # Contents:
-1. A circuit design and Arduino code of operating 12 volts DC motors that are controlled by a potentiometer.
+1. A circuit design and an Arduino code to operate 12 volts DC motors that are controlled by a potentiometer.
 2. Specifications of a 12 volts battery power supply with a charging circuit.
 3. A design for robot-eyes using LEDs that are protected with a voltage regulator.
 
